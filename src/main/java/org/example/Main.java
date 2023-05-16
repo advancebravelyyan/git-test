@@ -8,5 +8,7 @@ public class Main {
         System.out.println("全栈工程师");
         System.out.println("master test!");
         System.out.println("hot-fix test!");
+        System.out.println("push test");
+        System.out.println("push test22222");
     }
 }
